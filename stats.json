@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-10-23",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 0
   },
@@ -18,17 +18,19 @@
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
     "LeetCode_Binary_Tree_Level_Order_Traversal": true,
     "LeetCode_Kth_Missing_Positive_Number": true,
-    "LeetCode_Sqrt(x)": true
+    "LeetCode_Sqrt(x)": true,
+    "LeetCode_Rotate_Array": true
   },
   "activityHistory": {
     "2026-10-16": 1,
     "2026-10-18": 3,
     "2026-10-19": 1,
     "2026-10-21": 1,
-    "2026-10-23": 2
+    "2026-10-23": 3
   },
   "todayProblems": [
     "Kth Missing Positive Number",
-    "Sqrt(x)"
+    "Sqrt(x)",
+    "Rotate Array"
   ]
 }
