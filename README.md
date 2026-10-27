@@ -9,3 +9,4 @@
 | 7 | [Kth Missing Positive Number](./LeetCode/Easy/Kth%20Missing%20Positive%20Number) | [LeetCode](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | 23 Oct 2026 | 05:01 pm |
 | 8 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 23 Oct 2026 | 05:17 pm |
 | 9 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 23 Oct 2026 | 06:25 pm |
+| 10 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 28 Oct 2026 | 01:45 am |
