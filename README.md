@@ -21,3 +21,4 @@
 | 19 | [Insert into a Binary Search Tree](./LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | 02 Nov 2026 | 11:41 am |
 | 20 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 02 Nov 2026 | 08:23 pm |
 | 21 | [Search in Rotated Sorted Array II](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 02 Nov 2026 | 11:33 pm |
+| 22 | [Delete Node in a BST](./LeetCode/Medium/Delete%20Node%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | 03 Nov 2026 | 04:25 am |
