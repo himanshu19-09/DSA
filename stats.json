@@ -1,12 +1,12 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-11-02",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 0
   },
@@ -28,7 +28,8 @@
     "LeetCode_Intersection_of_Two_Arrays": true,
     "LeetCode_Majority_Element": true,
     "LeetCode_Rearrange_Array_Elements_by_Sign": true,
-    "LeetCode_Search_in_a_Binary_Search_Tree": true
+    "LeetCode_Search_in_a_Binary_Search_Tree": true,
+    "LeetCode_Insert_into_a_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-10-16": 1,
@@ -38,12 +39,13 @@
     "2026-10-23": 3,
     "2026-10-28": 4,
     "2026-11-01": 1,
-    "2026-11-02": 4
+    "2026-11-02": 5
   },
   "todayProblems": [
     "Intersection of Two Arrays",
     "Majority Element",
     "Rearrange Array Elements by Sign",
-    "Search in a Binary Search Tree"
+    "Search in a Binary Search Tree",
+    "Insert into a Binary Search Tree"
   ]
 }
